@@ -7,12 +7,9 @@ pipeline_tag: text-to-speech
 ---
 
 # ⓍTTS
-ⓍTTS is a Voice generation model that lets you clone voices into different languages by using just a quick 6-second audio clip. Built on Tortoise,
-ⓍTTS has important model changes that make cross-language voice cloning and multi-lingual speech generation super easy.
-There is no need for an excessive amount of training data that spans countless hours.
+ⓍTTS is a Voice generation model that lets you clone voices into different languages by using just a quick 6-second audio clip. There is no need for an excessive amount of training data that spans countless hours.
 
-This is the same model that powers [Coqui Studio](https://coqui.ai/), and [Coqui API](https://docs.coqui.ai/docs), however we apply
-a few tricks to make it faster and support streaming inference.
+This is the same or similar model to what powers [Coqui Studio](https://coqui.ai/) and [Coqui API](https://docs.coqui.ai/docs).
 
 ### Features
 - Supports 16 languages. 
