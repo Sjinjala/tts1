@@ -30,7 +30,7 @@ a few tricks to make it faster and support streaming inference.
 - Better prosody and audio quality across the board.
 
 ### Languages
-As of now, XTTS-v1 (v1.1) supports 14 languages: **English, Spanish, French, German, Italian, Portuguese,
+XTTS-v2 supports 16 languages: **English, Spanish, French, German, Italian, Portuguese,
 Polish, Turkish, Russian, Dutch, Czech, Arabic, Chinese, Japanese, Hungarian and Korean**.
 
 Stay tuned as we continue to add support for more languages. If you have any language requests, feel free to reach out!
