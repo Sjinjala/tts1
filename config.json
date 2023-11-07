@@ -47,7 +47,6 @@
     "use_noise_augment": false,
     "audio": {
         "sample_rate": 22050,
-        "diffusion_sample_rate": 24000,
         "output_sample_rate": 24000
     },
     "use_phonemes": false,
@@ -103,8 +102,6 @@
         "clvp_checkpoint": null,
         "decoder_checkpoint": null,
         "num_chars": 255,
-        "use_hifigan": true,
-        "use_ne_hifigan": false,
         "tokenizer_file": "",
         "gpt_max_audio_tokens": 605,
         "gpt_max_text_tokens": 402,
@@ -159,9 +156,9 @@
         "ko",
         "ja"
     ],
-    "temperature": 0.65,
+    "temperature": 0.75,
     "length_penalty": 1.0,
-    "repetition_penalty": 2.0,
+    "repetition_penalty": 10.0,
     "top_k": 50,
     "top_p": 0.85,
     "cond_free_k": 2.0,
