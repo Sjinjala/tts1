@@ -27,8 +27,8 @@ This is the same or similar model to what powers [Coqui Studio](https://coqui.ai
 - Better prosody and audio quality across the board.
 
 ### Languages
-XTTS-v2 supports 16 languages: **English, Spanish, French, German, Italian, Portuguese,
-Polish, Turkish, Russian, Dutch, Czech, Arabic, Chinese, Japanese, Hungarian and Korean**.
+XTTS-v2 supports 16 languages: **English (en), Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt),
+Polish (pl), Turkish (tr), Russian (ru), Dutch (nl), Czech (cs), Arabic (ar), Chinese (zh-cn), Japanese (ja), Hungarian (hu) and Korean (ko)**.
 
 Stay tuned as we continue to add support for more languages. If you have any language requests, feel free to reach out!
 
