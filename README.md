@@ -36,8 +36,8 @@ Stay tuned as we continue to add support for more languages. If you have any lan
 The [code-base](https://github.com/coqui-ai/TTS) supports inference and [fine-tuning](https://tts.readthedocs.io/en/latest/models/xtts.html#training).
 
 ### Demo Spaces
-- [XTTS Space](https://huggingface.co/spaces/coqui/xtts)  space you can see how model performs on supported languages, and try with your own reference or microphone input
-- [XTTS Voice Chat with Mistral or Zephyr](https://huggingface.co/spaces/coqui/voice-chat-with-mistral) you can experience streaming voice chat with Mistral 7B Instruct or Zephyr 7B Beta
+- [XTTS Space](https://huggingface.co/spaces/coqui/xtts)  :  You can see how model performs on supported languages, and try with your own reference or microphone input
+- [XTTS Voice Chat with Mistral or Zephyr](https://huggingface.co/spaces/coqui/voice-chat-with-mistral) : You can experience streaming voice chat with Mistral 7B Instruct or Zephyr 7B Beta
 
 ### License
 This model is licensed under [Coqui Public Model License](https://coqui.ai/cpml). There's a lot that goes into a license for generative models, and you can read more of [the origin story of CPML here](https://coqui.ai/blog/tts/cpml).
