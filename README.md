@@ -5,8 +5,9 @@ license_link: https://coqui.ai/cpml
 library_name: coqui
 pipeline_tag: text-to-speech
 widget:
-  - text: "Once when I was six years old I saw a magnificent picture"
-    src: samples/en-sample.wav   
+  - src: samples/en-sample.wav
+    output:
+      text: "Once when I was six years old I saw a magnificent picture"
 ---
 
 # ⓍTTS
