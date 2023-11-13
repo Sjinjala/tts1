@@ -6,28 +6,7 @@ library_name: coqui
 pipeline_tag: text-to-speech
 widget:
   - text: "Once when I was six years old I saw a magnificent picture"
-    src: samples/en-sample.wav
-  - src: samples/de-sample.wav
-    output:
-      text: "Als ich sechs war, sah ich einmal ein wunderbares Bild"
-  - src: samples/es-sample.wav
-    output:
-      text: "Cuando tenía seis años, vi una vez una imagen magnífica"      
-  - src: samples/fr-sample.wav
-    output:
-      text: "Lorsque j'avais six ans j'ai vu, une fois, une magnifique image"
-  - src: samples/ja-sample.wav
-    output:
-      text: "かつて 六歳のとき、素晴らしい絵を見ました"      
-  - src: samples/tr-sample.wav
-    output:
-      text: "Bir zamanlar, altı yaşındayken, muhteşem bir resim gördüm"     
-  - src: samples/zh-cn-esample.wav
-    output:
-      text: "当我还只有六岁的时候， 看到了一副精彩的插画"      
-  - src: samples/pt-sample.wav
-    output:
-      text: "Quando eu tinha seis anos eu vi, uma vez, uma imagem magnífica"            
+    src: samples/en-sample.wav   
 ---
 
 # ⓍTTS
