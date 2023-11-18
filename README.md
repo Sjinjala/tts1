@@ -41,6 +41,14 @@ The [code-base](https://github.com/coqui-ai/TTS) supports inference and [fine-tu
 - [XTTS Space](https://huggingface.co/spaces/coqui/xtts)  :  You can see how model performs on supported languages, and try with your own reference or microphone input
 - [XTTS Voice Chat with Mistral or Zephyr](https://huggingface.co/spaces/coqui/voice-chat-with-mistral) : You can experience streaming voice chat with Mistral 7B Instruct or Zephyr 7B Beta
 
+|                                 |                                         |
+| ------------------------------- | --------------------------------------- |
+| 🐸💬 **CoquiTTS**               | [coqui/TTS on Github](https://github.com/coqui-ai/TTS)|
+| 💼 **Documentation**            | [ReadTheDocs](https://tts.readthedocs.io/en/latest/)
+| 👩‍💻 **Questions**                | [GitHub Discussions](https://github.com/coqui-ai/TTS/discussions) |
+| 🗯 **Community**         | [Discord](https://discord.gg/5eXr5seRrv)  |
+
+
 ### License
 This model is licensed under [Coqui Public Model License](https://coqui.ai/cpml). There's a lot that goes into a license for generative models, and you can read more of [the origin story of CPML here](https://coqui.ai/blog/tts/cpml).
 
@@ -60,12 +68,6 @@ tts.tts_to_file(text="It took me quite a long time to develop a voice, and now t
                 speaker_wav="/path/to/target/speaker.wav",
                 language="en")
 
-# generate speech by cloning a voice using custom settings
-tts.tts_to_file(text="It took me quite a long time to develop a voice, and now that I have it I'm not going to be silent.",
-                file_path="output.wav",
-                speaker_wav="/path/to/target/speaker.wav",
-                language="en"
-                )
 ```
 
 Using 🐸TTS Command line:
