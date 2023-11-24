@@ -143,7 +143,8 @@
         "zh-cn",
         "hu",
         "ko",
-        "ja"
+        "ja",
+        "hi"
     ],
     "temperature": 0.75,
     "length_penalty": 1.0,
